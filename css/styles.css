@@ -1,0 +1,47 @@
+
+.mainContent {
+	border: 1px solid #0ab0b6;
+	min-height: 1254px;
+	max-width: 1200px;
+	min-width: 500px;
+	margin: 0 auto;
+}
+
+header {
+	border: 1px solid #9d346f;
+	height: 58.5px;
+}
+
+#thinkfulLogo {
+	display: block;
+	margin: 0 auto;
+}
+
+.headlineBanner {
+	background: #043f50;
+	height: 320px;
+}
+
+.gridWrapper {
+	border: 1px solid #e9804d;
+	min-height: 988px;
+	min-width: 500px;
+	position: relative;
+	margin-top: -115px;
+	float: left;
+}
+
+.columnOne, .columnTwo, .columnThree {
+	border: 1px solid #ea4dd6;
+	height: 988px;
+	width: 398px;
+	float: left;
+}
+
+footer {
+	border: 1px solid #53c441;
+	height: 70px;
+	max-width: 1200px; 
+	min-width: 500px;
+	margin: 0 auto;
+}
